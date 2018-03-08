@@ -1,9 +1,13 @@
+*{
+  font-family: Helvetica;
+}
+
 body{
   text-align: center;
 }
 
 .main-banner{
-  background-image: url(/Users/murielpierre-louis/Documents/Projects/BroadwayDesign/resources/images/the-flatiron-building.png);
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
 .footer-banner{
@@ -12,55 +16,42 @@ body{
 
 
 h1{
-  font-family: Helvetica;
   font-size: 70px;
-  font-weight: bold;
   color: white;
 }
 
 .navlist,
 p{
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
 }
 
 .footernav{
-  font-family: Helvetica;
   font-size: 14px;
   color: white;
   text-align: left;
 }
 
 h2{
-  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   color: darkgrey;
 }
 
 .greytitles{
-  font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
   color: darkgrey;
 }
 
 .paragraph{
-  font-family: Helvetica;
   font-size: 14px;
   color: darkgrey;
 }
 
 .whitetitle{
-  font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url(/Users/murielpierre-louis/Documents/Projects/BroadwayDesign/resources/images/the-flatiron-building.png);
-}
-
-img{
-  width: 100px;
-  height: 50px;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
